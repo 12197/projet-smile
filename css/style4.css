@@ -1,0 +1,17 @@
+body{
+	
+	background-color:rgb(132, 132, 132);
+	color: white;
+}
+a{
+	color: darkblue;
+	text-decoration: none;
+}
+button:hover{
+	box-shadow: 10px 10px 10px rgb(242, 255, 255);
+	transition:0.5s ease-in;
+	transform:scale(1.2);
+}
+#nn{
+	color: white;
+}
